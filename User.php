@@ -30,3 +30,4 @@
       return $this->username;
     }
   }
+?>
